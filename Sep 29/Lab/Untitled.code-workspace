@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../btre_project"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Java Code Immersion",
+		"git.ignoreLimitWarning": true
+	}
+}
