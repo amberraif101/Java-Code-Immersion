@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewName",
+            "request": "launch",
+            "mainClass": "NewName",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open Untitled-1",
