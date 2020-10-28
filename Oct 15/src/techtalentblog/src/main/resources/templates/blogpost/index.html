@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<>, initial-scale=1.0">
-    <title>Document</title>
+    <title>Blog Post</title>
 </head>
 <body>
     <h1>Welcome to Our Blog Site!</h1>
     <h3>Check out our blogs</h3>
 
     <p>Please use the form below to submit a Blog Post:</p>
-    <form action="#" th:action="@{/}" th:object="$blogPost" method="post"></form>
+    <form action="#" th:action="@{/}" th:object="${blogPost}" method="post">
 
     <table>
         <tr>
@@ -19,15 +18,16 @@
             <td><input type="text" th:field="*{title}" /></td>
         </tr>
         <tr>
-            <td>Blog Entry</td>
+            <td>Author</td>
             <td><input type="text" th:field="*{author}" /></td>
         </tr>
         <tr>
             <td>Blog Entry</td>
             <td><input type="text" th:field="*{blogEntry}" /></td>
         </tr>
-        <tr><button type="Submit">Submit Your Post</button>
+        <td><button type="Submit">Submit Your Post</button></td>
         </tr>
     </table>
+</form>
 </body>
 </html>

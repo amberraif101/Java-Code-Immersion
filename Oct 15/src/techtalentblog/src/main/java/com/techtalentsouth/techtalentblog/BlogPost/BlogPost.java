@@ -10,6 +10,7 @@ public class BlogPost {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+
     private String title;
     private String author;
     private String blogEntry;
@@ -26,7 +27,7 @@ public class BlogPost {
     }
 
     public void setTitle(String title){
-        this.title=title;  
+        this.title = title;  
     }
 
     public String getAuthor(){
@@ -34,7 +35,7 @@ public class BlogPost {
     }
 
     public void setAuthor(String author){
-        this.author=author;
+        this.author = author;
     }
 
     public String getblogEntry(){
