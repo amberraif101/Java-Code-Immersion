@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Bike.Main",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Lecture.Main",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - looppractice",
+            "request": "launch",
+            "mainClass": "looppractice",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - looppractice",
+            "request": "launch",
+            "mainClass": "looppractice.looppractice",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practicetest",
+            "request": "launch",
+            "mainClass": "practicetest",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PracticeLoops",
+            "request": "launch",
+            "mainClass": "untitledfolder.PracticeLoops",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PracticeLoops",
+            "request": "launch",
+            "mainClass": "PracticeLoops",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practiceloops",
+            "request": "launch",
+            "mainClass": "practiceloops",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaLoops",
+            "request": "launch",
+            "mainClass": "JavaLoops",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradingScale",
+            "request": "launch",
+            "mainClass": "GradingScale",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java Code Immersion_3a24c25a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NewName",
             "request": "launch",
             "mainClass": "NewName",

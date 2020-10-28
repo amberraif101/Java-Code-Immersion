@@ -1,4 +1,4 @@
-public class Bike {
+private class Bike {
  
     String size;
     String color;

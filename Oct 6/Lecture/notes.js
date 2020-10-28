@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body
 
 <input id=gradeinput" type="text">
 var gradeinput = x;
@@ -17,5 +14,3 @@ console.log("You received a B.")
     console.log("You received a F.");
      }
 
-    </body>
-</html>
